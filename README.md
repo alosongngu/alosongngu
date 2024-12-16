@@ -1,13 +1,25 @@
-- 👋 Hi, I’m @alosongngu
-- 👀 I’m interested in languages learning
-- 🌱 I’m currently learning German
-- 💞️ I’m looking to collaborate on Alo Song Ngữ project
-- 📫 How to reach me https://alosongngu.com/lien-he/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Alo Song Ngữ - Giải pháp học ngoại ngữ trực tuyến
-- https://alosongngu.com
+# 🌐 Alo Song Ngữ - Giải pháp học ngoại ngữ trực tuyến  
+**#alosn #alosongngu**  
 
-<!---
-alosongngu/alosongngu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📚 Học ngoại ngữ theo phương pháp song ngữ  
+- Học ngoại ngữ qua **phụ đề phim** 🎥  
+- Phát triển kỹ năng thông qua các sản phẩm độc đáo:  
+
+### 🌟 Các sản phẩm tại Alo Song Ngữ:  
+- 🎙️ **Podcast Song Ngữ**  
+- 📖 **Sách Song Ngữ**  
+- 🎧 **Sách Nói Song Ngữ**  
+
+### 🤖 Công nghệ AI tiên tiến  
+Alo Song Ngữ ứng dụng công nghệ AI để mang đến trải nghiệm học tập hiện đại với:  
+- 🐾 **Bé Sen Song Ngữ**  
+- 🐾 **Bé Sen Ngoại Ngữ**  
+
+---
+
+### 📲 Liên hệ Alo Song Ngữ:  
+- 🌐 Website: [https://alosongngu.com](https://alosongngu.com)  
+- 🎥 YouTube: [@alosongngu](https://www.youtube.com/@alosongngu)  
+- 👍 Facebook: [Alo Song Ngữ](https://www.facebook.com/alosongngu)  
+- 🐦 X: [@alosongngu](https://x.com/alosongngu)  
+- 📍 Google Maps: [Xem địa điểm](https://www.google.com/maps?cid=5266662647085331447)  
